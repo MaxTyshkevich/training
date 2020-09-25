@@ -1,4 +1,8 @@
+
 some text
 change from master
 change from master
 change from master
+some text change file 
+resolve conflict for rebase
+
